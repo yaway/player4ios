@@ -1,3 +1,6 @@
 .sass-cache
+images
+config.rb
+*.scss
 *.sublime-project
 *.sublime-workspace
